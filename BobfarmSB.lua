@@ -1,4 +1,4 @@
-for i,v in pairs(game:GetDescendants()) do
+forfor i,v in pairs(game:GetDescendants()) do
 if v.Name == 'Teleport1' then
 v.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 end
